@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Akash Borse
 - 👀 I’m interested in Data Science and Data Analytics
-- 🌱 I’m currently learning Google cloud, Gen AI
+- 🌱 I’m currently learning Cloud Technology, Gen AI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me akashborase3@gmail.com
 
